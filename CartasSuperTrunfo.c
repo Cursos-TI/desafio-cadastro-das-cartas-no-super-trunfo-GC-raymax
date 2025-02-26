@@ -153,7 +153,7 @@ int main() {
 
     // Comparação de Cartas
     
-    printf("\nComparação de Cartas:\n");
+    printf("\n=== Comparação de Cartas: ===\n");
     printf("População: Carta %d venceu (%d)\n", resultado_populacao ? 1 : 2, resultado_populacao);
     printf("Área: Carta %d venceu (%d)\n", resultado_area ? 1 : 2, resultado_area);
     printf("PIB: Carta %d venceu (%d)\n", resultado_pib ? 1 : 2, resultado_pib);
